@@ -1,8 +1,10 @@
 ---
 layout: page
-title: projects
+title: research
+nav-order: 3
+nav-include: true
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: In pursuit of a computational learning of time and dynamics.
 nav: true
 display_categories: [work, fun]
 horizontal: false

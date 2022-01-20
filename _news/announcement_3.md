@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-10-15 09:00:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Wenzhe Yin joined the POP-AART Lab with NKI and Elekta, and he will be working on spatio-temporal registration and deep PDEs.

@@ -1,0 +1,6 @@
+2021-11-01.17-07-47 mv announcement_2.md announcement_2-complex-layout.md.bak
+2021-11-01.17-08-04 cp announcement_1.md announcement_2.md
+2021-11-01.17-11-52 mkdir _news-bak
+2021-11-01.17-12-13 mv announcement_2-complex-layout.md.bak _news-bak/
+2021-11-01.17-12-17 mv _news-bak/ ../
+2021-11-01.17-12-18 clear

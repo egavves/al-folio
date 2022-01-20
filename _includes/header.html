@@ -43,7 +43,7 @@
           </li>
           {% endif %}
           <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: "title" %}
+          {% assign sorted_pages = site.pages | sort: "nav-order" %}
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
           {% if p.dropdown %}
@@ -65,6 +65,9 @@
               </div>
           </li>
           {% else %}
+<!--           <li class="nav-item {% if page.title contains 'ellogon' %}active{% endif %}">
+            
+          </li> -->
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
               <a class="nav-link" href="{{ p.url | relative_url }}">
                 {{ p.title }}

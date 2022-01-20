@@ -1,0 +1,17 @@
+2021-11-01.17-00-28 sudo apt-get install gwenview 
+2021-11-01.17-01-47 gwenview prof_pic.jpg 
+2021-11-01.17-01-47 gwenview prof_pic.jpg 
+2021-11-01.17-01-47 gwenview prof_pic.jpg 
+2021-11-01.17-01-47 gwenview prof_pic.jpg 
+2021-11-01.17-02-02 mv prof_pic.jpg prof_pic-orig.jpg
+2021-11-01.17-02-14 mv DSC_0272-nico.jpg prof_pic.png
+2021-11-01.17-02-36 gwenview prof_pic.jpg 
+2021-11-01.17-02-41 gwenview prof_pic.jpg 
+2021-11-01.17-02-48 gwenview prof_pic.jpg 
+2021-11-01.17-03-02 mv prof_pic.png DSC_0272-nico.jpg
+2021-11-01.17-03-10 convert DSC_0272-nico.jpg prof_pic.png
+2021-11-01.17-03-17 gwenview prof_pic.jpg 
+2021-11-01.17-03-25 gwenview prof_pic.jpg 
+2021-11-01.17-04-04 gwenview DSC_0272-nico.jpg 
+2021-11-01.17-04-28 mv DSC_0272-nico.jpg prof_pic.jpg
+2021-11-01.17-04-35 gwenview prof_pic.jpg 
